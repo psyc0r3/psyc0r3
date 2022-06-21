@@ -37,4 +37,3 @@ Hi / Bonjour / Silav / Hello 👋
     <img width="70%" src="https://user-images.githubusercontent.com/91088262/174759555-f43e9809-c4ec-4494-998b-f83f0410c59d.gif" />
 </p>
 <!-- <img title="flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> -->
-
