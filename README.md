@@ -1,3 +1,7 @@
+<div style="display: flex; align-items: center; justify-content: center;">
+<img width="50%" src="https://user-images.githubusercontent.com/91088262/174732054-c608935f-b439-439b-9881-47b298ee245c.svg" />
+</div>
+
 ### Hi / Bonjour / Silav 👋
 
 <div>
@@ -21,3 +25,6 @@
 </div>
 
 <!-- <img title="flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> -->
+
+
+
